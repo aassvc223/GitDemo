@@ -17,6 +17,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     NSLog(@"删除空行，添加一行");
+    NSLog(@"sdfasga");
     return YES;
 }
 
